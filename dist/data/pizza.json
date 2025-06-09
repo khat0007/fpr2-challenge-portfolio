@@ -4,7 +4,7 @@
     "name": "Margherita",
     "description": "Classic pizza with tomatoes, mozzarella, and basil.",
     "price": 8.5,
-     "image": "images/margherita-simple.png"
+     "image": "images/Margherita-simple.png"
   },
   {
     "id": 2,
@@ -18,6 +18,6 @@
     "name": "Veggie Delight",
     "description": "Loaded with bell peppers, onions, mushrooms, and olives.",
     "price": 10.5,
-     "image": "images/veggie-delight.jpg"
+     "image": "images/veggie-delight.png"
   }
 ]

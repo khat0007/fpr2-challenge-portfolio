@@ -3,7 +3,7 @@
 // Fetch all pizzas from pizza.json
 export async function fetchPizzas() {
   try {
-    const response = await fetch('/src/data/pizza.json');
+    const response = await fetch('./data/pizza.json');
     if (!response.ok) throw new Error('Failed to fetch pizzas');
     return await response.json();
   } catch (err) {
