@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Margherita",
+    "description": "Classic pizza with tomatoes, mozzarella, and basil.",
+    "price": 8.5,
+     "image": "images/margherita-simple.png"
+  },
+  {
+    "id": 2,
+    "name": "Pepperoni",
+    "description": "Topped with pepperoni and cheese.",
+    "price": 9.5,
+    "image": "images/pepperoni-simple.png"
+  },
+  {
+    "id": 3,
+    "name": "Veggie Delight",
+    "description": "Loaded with bell peppers, onions, mushrooms, and olives.",
+    "price": 10.5,
+     "image": "images/veggie-delight.jpg"
+  }
+]

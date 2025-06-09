@@ -1,0 +1,17 @@
+{
+  "name": "tailwindcss-starter",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+  "build:css": "npx @tailwindcss/cli -i ./src/input.css -o ./dist/styles.css --minify",
+  "watch:css": "npx @tailwindcss/cli -i ./src/input.css -o ./dist/styles.css --watch"
+},
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.8",
+    "tailwindcss": "^4.1.8"
+  }
+}
